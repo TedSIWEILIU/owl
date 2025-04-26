@@ -6,13 +6,11 @@
 
 ## 1. Take-away Messages
 
-- **Repository**: [your-username/owl](https://github.com/your-username/owl) (fork of `camel-ai/owl`)  
+- **Reasons**: We choose OWL since it is claimed to be the 🏆 OWL achieves <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">69.09</span> average score on GAIA benchmark and ranks <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">🏅️ #1</span> among open-source frameworks! 🏆  
 - **Branch**: `main`  
 - **Commit SHA**: `abcdef1234567890`  
 
-This document describes how to reproduce the OWL demo, the environment used, and a summary of functional and installation issues encountered.
 
----
 ## 2. Comparison between SEW enhanced OWL and OWL
 
 ## 3. Environment
