@@ -15,7 +15,7 @@
   2. The code for the second-best variant of owl i.e., **role-palying workflow** is not reproducible (check more details [here](https://github.com/camel-ai/owl/issues/503)).
 
 
-## 2. Comparison between SEW enhanced OWL and OWL
+## 2. Comparison between SEW enhanced OWL and OWL on the GAIA benchmark
 ![系统架构图](result_comparison_percentage.png)
 ## 3. Environment
 
