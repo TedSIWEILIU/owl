@@ -17,7 +17,7 @@
 - **Modifications**:
   1. Change the framework into multithreading.
   2. Use **SEW** to enhance the OWL.
-## 4. What have we changed?
+## 4. Issues
   1. The code for reproducing the best variant of owl i.e., **workforce workflow** is missing (check more details [here](https://github.com/camel-ai/owl/issues/496)).
   2. The code for the second-best variant of owl i.e., **role-palying workflow** is not reproducible (check more details [here](https://github.com/camel-ai/owl/issues/503)).
 
