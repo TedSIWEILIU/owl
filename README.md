@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Overview
+## 1. Take-away Messages
 
 - **Repository**: [your-username/owl](https://github.com/your-username/owl) (fork of `camel-ai/owl`)  
 - **Branch**: `main`  
@@ -13,8 +13,9 @@
 This document describes how to reproduce the OWL demo, the environment used, and a summary of functional and installation issues encountered.
 
 ---
+## 2. Comparison between SEW enhanced OWL and OWL
 
-## 2. Environment
+## 3. Environment
 
 ```bash
 # Clone github repo
