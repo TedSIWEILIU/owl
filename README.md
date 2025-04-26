@@ -79,3 +79,6 @@ You can set environment variables directly in your terminal:
 cd owl/examples
 python run_gaia_roleplaying.py
 ```
+Results are saved as JSON files. The results shown in the previous figure can be found in the [results](https://github.com/TedSIWEILIU/owl/tree/main/results) folder:
+- [Optimized OWL](https://github.com/TedSIWEILIU/owl/blob/main/results/_allvalid_SEW_forder_index2.json)
+- [Original OWL](https://github.com/TedSIWEILIU/owl/blob/main/results/_allvalid_original.json)
