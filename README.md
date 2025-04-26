@@ -6,7 +6,7 @@
 
 ## 1. Take-away Messages
 
-- **Reasons**: We choose OWL since it is claimed to be the 🏆 OWL achieves <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">69.09</span> average score on GAIA benchmark and ranks <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">🏅️ #1</span> among open-source frameworks! 🏆  
+- **Reasons**: We choose OWL since it is claimed to be ranks <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">🏅️ #1</span> among open-source frameworks on the GAIA benchmark! 🏆  
 - **Branch**: `main`  
 - **Commit SHA**: `abcdef1234567890`  
 
