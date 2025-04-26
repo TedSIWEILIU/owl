@@ -4,11 +4,13 @@
 [OWL](https://github.com/camel-ai/owl) is an open-source agentic framework developed by [Camel-AI](https://github.com/camel-ai/camel), designed to enable general-purpose multi-agent collaboration in solving real-world tasks. It provides a flexible and extensible platform for building, coordinating, and deploying multiple intelligent agents across a wide range of practical applications.
 ---
 
-## 1. Take-away Messages
+## 1. Why OWL?
 
 - **Reasons**: We choose OWL since it is claimed to be ranked #1 among open-source frameworks on the GAIA benchmark!
 
 ![系统架构图](leaderboard.png)
+
+## 2. What have we changed?
 - **Modifications**:
   1. Change the framework into multithreading.
   2. Use **SEW** to enhance the OWL.
