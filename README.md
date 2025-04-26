@@ -19,9 +19,10 @@ In our experiments, we leveraged the OpenAI o1 model to optimize the prompts, an
 ![系统架构图](leaderboard.png)
 
 ## 3. What have we changed?
-- **Modifications**:
-  1. Change the framework into multithreading.
-  2. Use **SEW** to enhance the OWL.
+We made the following modifications to the original framework:
+1. We optimized the prompts within the OWL framework using our proposed SEWOptimizer. In our experiments, we randomly sampled 25 questions from the GAIA validation set and used them as a validation subset for optimization. These optimized prompts can be found in the ['prompt_process'](https://github.com/TedSIWEILIU/owl/tree/main/prompt_process) folder:
+
+
 ## 4. Issues
   1. The code for reproducing the best variant of owl i.e., **workforce workflow** is missing (check more details [here](https://github.com/camel-ai/owl/issues/496)).
   2. The code for the second-best variant of owl i.e., **role-palying workflow** is not reproducible (check more details [here](https://github.com/camel-ai/owl/issues/503)).
