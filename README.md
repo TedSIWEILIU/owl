@@ -63,3 +63,8 @@ You can set environment variables directly in your terminal:
   $env:OPENAI_API_KEY = "your-openai-api-key-here"
   ```
 
+## 4. Reproduce Results
+   ```bash
+cd owl/examples
+python run_gaia_roleplaying.py
+```
