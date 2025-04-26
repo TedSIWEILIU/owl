@@ -7,6 +7,7 @@
 ## 1. Take-away Messages
 
 - **Reasons**: We choose OWL since it is claimed to be ranked #1 among open-source frameworks on the GAIA benchmark!
+![系统架构图](Screenshot leaderboard.png)
 - **Modifications**:
   1. Change the framework into multithreading.
   2. Use **SEW** to enhance the OWL.
