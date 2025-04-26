@@ -1,13 +1,15 @@
 # OWL Project Reproduction Report
 
-> **Note**: This report outlines reproduction steps, environment details, and issues discovered when forking and running the Camel-AI OWL project using our **S**elf-**E**volving **W**orkflow.  
+> **Note**: This report outlines reproduction steps, environment details, and issues discovered when forking and running the Camel-AI OWL project using our **S**elf-**E**volving **W**orkflow (**SEW**).  
 
 ---
 
 ## 1. Take-away Messages
 
-- **Reasons**: We choose OWL since it is claimed to be ranks <span style="color: #d81b60; font-weight: bold; font-size: 1.2em;">🏅️ #1</span> among open-source frameworks on the GAIA benchmark! 🏆  
-- **Branch**: `main`  
+- **Reasons**: We choose OWL since it is claimed to be ranks #1 among open-source frameworks on the GAIA benchmark!
+- **Modifications**:
+  1. test
+  2. test 
 - **Commit SHA**: `abcdef1234567890`  
 
 
