@@ -16,7 +16,7 @@
 
 
 ## 2. Comparison between SEW enhanced OWL and OWL
-![系统架构图](result_comparison.pdf)
+![系统架构图](result_comparison.png)
 ## 3. Environment
 
 ```bash
