@@ -20,7 +20,8 @@ In our experiments, we leveraged the OpenAI o1 model to optimize the prompts, an
 
 ## 3. What have we changed?
 We made the following modifications to the original framework:
-1. We optimized the prompts within the OWL framework using our proposed SEWOptimizer. In our experiments, we randomly sampled 25 questions from the GAIA validation set and used them as a validation subset for optimization. These optimized prompts can be found in the ['prompt_process'](https://github.com/TedSIWEILIU/owl/tree/main/prompt_process) folder:
+1. We optimized the prompts within the OWL framework using our proposed SEWOptimizer. In our experiments, we randomly sampled 25 questions from the GAIA validation set and used them as a validation subset for optimization. These optimized prompts can be found in the ['prompt_process'](https://github.com/TedSIWEILIU/owl/tree/main/prompt_process) folder.
+2. We change the running script into Multi-threading to speed up the process.
 
 
 ## 4. Issues
