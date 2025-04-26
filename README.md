@@ -9,6 +9,9 @@ We optimized the OWL role-playing framework using our proposed SEWOptimizer, wit
 
 ![系统架构图](result_comparison_percentage.png)
 
+The results indicate that our optimized prompts improve the performance by 20% on average, with noticeable improvements on tasks from all three levels of the GAIA benchmark.
+
+In our experiments, we leveraged the OpenAI o1 model to optimize the prompts, and used gpt-4o to run the model during evaluation. The total investment for this optimization process was approximately 90$ and the cost of running the model with gpt-4o for validation is around 40$. These results indicate that our optimization process is cost-effective and can achieve remarkable performance improvements.
 ## 2. Why OWL?
 
 - **Reasons**: We choose OWL since it is claimed to be ranked #1 among open-source frameworks on the GAIA benchmark!
