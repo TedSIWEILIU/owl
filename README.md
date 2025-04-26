@@ -16,22 +16,26 @@ This document describes how to reproduce the OWL demo, the environment used, and
 
 ## 2. Environment
 
-| Component      | Version                   |
-| -------------- | ------------------------- |
-| Python         | 3.10.12                   |
-| pip            | 23.1                      |
-| camel-ai       | v0.2.5 (from PyPI)        |
-| torch          | 2.0.1                     |
-| transformers   | 4.34.0                    |
-| OS             | Ubuntu 22.04 LTS (WSL2)   |
+```bash
+# Clone github repo
+git clone https://github.com/camel-ai/owl.git
 
-> **Tip**: It’s recommended to create a virtualenv:
-> ```bash
-> python3 -m venv .venv
-> source .venv/bin/activate
-> ```
+# Change directory into project directory
+cd owl
 
----
+# Create a virtual environment
+# For Python 3.10 (also works with 3.11, 3.12)
+python3.10 -m venv .venv
+
+# Activate the virtual environment
+# For macOS/Linux
+source .venv/bin/activate
+# For Windows
+.venv\Scripts\activate
+
+# Install from requirements.txt
+pip install -r requirements.txt --use-pep517
+```
 
 ## 3. Installation & Setup
 
