@@ -39,10 +39,27 @@ source .venv/bin/activate
 # Install from requirements.txt
 pip install -r requirements.txt --use-pep517
 ```
+## **Setup Environment Variables**
 
-## 3. Installation & Setup
+OWL requires various API keys to interact with different services.
 
-1. **Clone & enter repo**  
-   ```bash
-   git clone https://github.com/your-username/owl.git
-   cd owl
+### Setting Environment Variables Directly
+
+You can set environment variables directly in your terminal:
+
+- **macOS/Linux (Bash/Zsh)**:
+  ```bash
+  export OPENAI_API_KEY="your-openai-api-key-here"
+  # Add other required API keys as needed
+  ```
+
+- **Windows (Command Prompt)**:
+  ```batch
+  set OPENAI_API_KEY=your-openai-api-key-here
+  ```
+
+- **Windows (PowerShell)**:
+  ```powershell
+  $env:OPENAI_API_KEY = "your-openai-api-key-here"
+  ```
+
