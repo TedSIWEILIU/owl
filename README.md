@@ -6,11 +6,11 @@
 
 ## 1. Take-away Messages
 
-- **Reasons**: We choose OWL since it is claimed to be ranks #1 among open-source frameworks on the GAIA benchmark!
+- **Reasons**: We choose OWL since it is claimed to be ranked #1 among open-source frameworks on the GAIA benchmark!
 - **Modifications**:
-  1. test
-  2. test 
-- **Commit SHA**: `abcdef1234567890`  
+  1. Change the framework into multithreading.
+  2. Use **SEW** to enhance the OWL.
+- **Issues**: `abcdef1234567890`  
 
 
 ## 2. Comparison between SEW enhanced OWL and OWL
