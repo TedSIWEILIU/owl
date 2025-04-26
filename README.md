@@ -5,6 +5,8 @@
 ---
 
 ## 1. Comparison between SEW enhanced OWL and OWL on the GAIA benchmark (validation set)
+We optimized the OWL role-playing framework using our proposed SEWOptimizer, with a primary focus on improving the prompts within the framework. We report the performance of the original and optimized prompts on the full GAIA validation set in the following figure.
+
 ![系统架构图](result_comparison_percentage.png)
 
 ## 2. Why OWL?
