@@ -1,7 +1,7 @@
 # OWL Project Reproduction Report
 
 > **Note**: This report outlines reproduction steps, environment details, and issues discovered when forking and running the Camel-AI OWL project using our **S**elf-**E**volving **W**orkflow (**SEW**).  
-
+[OWL](https://github.com/camel-ai/owl) is an open-source agentic framework developed by [Camel-AI](https://github.com/camel-ai/camel), designed to enable general-purpose multi-agent collaboration in solving real-world tasks. It provides a flexible and extensible platform for building, coordinating, and deploying multiple intelligent agents across a wide range of practical applications.
 ---
 
 ## 1. Take-away Messages
