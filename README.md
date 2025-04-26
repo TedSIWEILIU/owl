@@ -82,3 +82,5 @@ python run_gaia_roleplaying.py
 Results are saved as JSON files. The results shown in the previous figure can be found in the [results](https://github.com/TedSIWEILIU/owl/tree/main/results) folder:
 - [Optimized OWL](https://github.com/TedSIWEILIU/owl/blob/main/results/_allvalid_SEW_forder_index2.json)
 - [Original OWL](https://github.com/TedSIWEILIU/owl/blob/main/results/_allvalid_original.json)
+
+To reproduce the performance of the original owl, please go to [config](https://github.com/TedSIWEILIU/owl/blob/main/llm_related_config.py) and switch USE_SEW_PROMPT to false.
